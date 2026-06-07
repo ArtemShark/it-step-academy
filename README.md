@@ -23,3 +23,9 @@ it-step-academy/
 - **C++** — fundamentals, OOP, memory management
 - **Java** — object-oriented programming, collections
 - **Git & GitHub** — version control, branching strategies, collaboration
+
+---
+
+## 📌 About
+
+These assignments were part of a structured programme focused on building a solid foundation in software development before entering a university Computer Science degree. The work here represents early-stage learning.
