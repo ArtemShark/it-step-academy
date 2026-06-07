@@ -11,7 +11,6 @@ This coursework covers core programming fundamentals, object-oriented principles
 ```
 it-step-academy/
 ├── cpp-basics/            # Core C++ fundamentals: variables, loops, functions, OOP
-├── cpp-projects/          # Larger C++ assignments and exam projects
 ├── git-exercises/         # Git & GitHub workflow practice (branching, merging, PRs)
 └── java/                  # Java assignments: OOP, collections, basic algorithms
 ```
