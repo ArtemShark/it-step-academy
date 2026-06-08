@@ -1,0 +1,21 @@
+# C++
+*.o
+*.exe
+*.obj
+*.pdb
+x64/
+Debug/
+Release/
+.vs/
+
+# Java
+*.class
+target/
+.mvn/
+*.jar
+
+# IDE
+.idea/
+*.suo
+*.user
+.vscode/
